@@ -6,13 +6,13 @@ Develop a single layer Perceptron linear classifier - 2 dimensions. The code mus
 
 * Function to train the Perceptron;
 * Function to classify non-trained data with the Perceptron;
-* The generation of training and test data is part of the task;
+* Generate training and test data;
 * Plot the line adjustments during the training - weights of the Perceptron;
 * Plot the data and the decision border - line adjusted.
 
-The project must have at least a readme file in .txt format indicating how to execute the submitted work. If prefer to choose to send as a report, it must have a maximum of one page.
+The project must have at least a readme file in .txt format indicating how to execute the submitted work. If you prefer to send as a report, it must have a maximum of one page.
 
-Send code, training data and other files in a single file in .zip format.
+Send the code, training data and other files in a single file in .zip format.
 
 Deadline for submission 01/12/2019 (23:59)
 
@@ -26,9 +26,9 @@ The code is developed in [Python](https://www.python.org/downloads/) with the fo
 
 ## Running
 
-Running the 00.py file, a figure will open with the random generated data and the line adjustments will be plotted in a set of 100 iterations. Due to the aleatory data, if possible, it will be linearly separable. This shows that the single-layer Perceptron is working properly, because it is a linear classifier. Finished the training process, the weights will be printed. 
+Running the 00.py file, a figure will open with the random generated data and the line adjustments will be plotted in a set of 100 iterations. Due to the aleatory data, if possible, it will be linearly separable. This shows that the single-layer Perceptron is working properly. Finished the training process, the weights will be printed. 
 
-Therefore, you can click anywhere in the plot area and test the Perceptron with untrained points. It will print the selected coordinates and output, plotting it interactively with the correct classification. You can finish the file by closing the figure.
+Therefore, you can click anywhere in the plot area and test the Perceptron with untrained points. It will print the selected coordinates and output, plotting it interactively with the correct classification. You can finish the program by closing the figure.
 
 ## Contributing
 
