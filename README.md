@@ -1,4 +1,4 @@
-# Project Title
+# Single layer Perceptron linear classifier - 2 dimensions
 
 First assignment of the subject: ESE410020 - Special Topics in Electronics Systems I:
 
