@@ -30,13 +30,13 @@ Running the 00.py file, a figure will open with the random generated data and th
 
 Therefore, you can click anywhere in the plot area and test the Perceptron with untrained points. It will print the selected coordinates and output, plotting it interactively with the correct classification. You can finish the program by closing the figure.
 
-## Contributing
+## Reference
 
 * [John Sullivan](https://jtsulliv.github.io/perceptron/)
 * [Thomas Countz](https://medium.com/@thomascountz/calculate-the-decision-boundary-of-a-single-perceptron-visualizing-linear-separability-c4d77099ef38)
 * [Xu Liang](https://towardsdatascience.com/an-equation-to-code-machine-learning-project-walk-through-in-python-part-1-linear-separable-fd0e19ed2d7)
 
-## Authors
+## Author
 
  **Mateus Abreu de Andrade** - [Linkedin](https://www.linkedin.com/in/mateus-abreu-de-andrade-92259659/)
 
