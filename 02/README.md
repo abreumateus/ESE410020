@@ -17,7 +17,7 @@ Develop a MLP number classifier - 0 to 9. The code must contain the following fu
 * Plot model convergence and generalization;
 * Test different generalized estimation methods: hold-out, cross-validation, bootstrap;
 * 3 pages report: 
-* Critical analysis and comparisson between the different methods;
+* Critical analysis and comparison between the different methods;
 * Graphs and tables discussing the results.
 
 The project must have at least a readme file in .txt format indicating how to execute the submitted work and the report.
